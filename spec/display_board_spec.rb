@@ -193,6 +193,11 @@ describe "#display_board in 'lib/display_board.rb" do
       end
 
 
+
+
+
+      # *** Comment the line below by adding a # at the line start ***
+      expect(true).to be(true)
     end
   end
 end
